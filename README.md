@@ -2,6 +2,18 @@
 
 A new Flutter project.
 
+## Screenshot demo
+
+<p>
+  <a href="https://bit.ly/3KFtgrK" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/kenyk7/flutter_gauge_lemon/main/screenshot.jpg"
+      alt="Spotify"
+      width="300"
+    />
+  </a>
+</p>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
