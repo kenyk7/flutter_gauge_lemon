@@ -5,7 +5,7 @@ A new Flutter project.
 ## Screenshot demo
 
 <p>
-  <a href="https://bit.ly/3KFtgrK" target="_blank" rel="noreferrer">
+  <a href="https://github.com/kenyk7" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/kenyk7/flutter_gauge_lemon/main/screenshot.jpg"
       alt="Spotify"
